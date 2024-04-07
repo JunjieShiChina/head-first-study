@@ -1,4 +1,4 @@
-package strategyPattern;
+package 策略模式;
 
 public abstract class Duck {
 

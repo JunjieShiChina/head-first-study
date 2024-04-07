@@ -1,4 +1,4 @@
-package observerPattern;
+package 观察者模式;
 
 public class Display2 implements Observer,Dispaly{
     private Subject subject;

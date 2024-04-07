@@ -1,4 +1,4 @@
-package strategyPattern;
+package 策略模式;
 
 /**
  * 玩具鸭子

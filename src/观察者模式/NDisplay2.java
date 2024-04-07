@@ -1,4 +1,4 @@
-package observerPattern;
+package 观察者模式;
 
 import java.util.Observable;
 
